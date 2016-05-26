@@ -23,4 +23,4 @@ You live in %r. Not sure where that is.
 You have a %r computer and a %r phone. Nice.
 """ %  (likes, lives, computer, phone)
 
-
+print "I guess we're done for now."
