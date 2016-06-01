@@ -28,9 +28,9 @@ target.write("\n")
 target.write(line2)
 target.write("\n")
 target.write(line3)
-target.write("\n)
+target.write("\n")
 
 print "Now we finally close the file."
-target.close("\n")
+target.close()
 
 
